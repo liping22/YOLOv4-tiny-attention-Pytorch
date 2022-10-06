@@ -1,5 +1,4 @@
 # YOLOv4-tiny-attention-Pytorch
-YOLOV4-Tiny：You Only Look Once-Tiny
 
 ---
 
