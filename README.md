@@ -1,12 +1,7 @@
 # YOLOv4-tiny-attention-Pytorch
 YOLOV4-Tiny：You Only Look Once-Tiny
-## YOLOV4-Tiny：You Only Look Once-Tiny
+
 ---
-
-## 目录
-
-1. [Environment](#Environment)
-2. [How to train](#How to train)
 
 ## Environment
 torch==1.2.0
